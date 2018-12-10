@@ -36,7 +36,7 @@ for i in range(0,a):
 	j=i+1
 
 	while j<a:
-
+ 
  		if readyq[j][1]<readyq[i][1]:
 			readyq[i],readyq[j] = swap(readyq[i],readyq[j])
 
