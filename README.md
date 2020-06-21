@@ -1,2 +1,2 @@
 # python-
-this repository includes python codes
+this repository includes python codes for the scheduling algorithms
